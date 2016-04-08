@@ -28,7 +28,7 @@ int swap(int list[],int a,int b){
 }
 
   //【課題1】(選択) Small Cでソートプログラムを書け．ソート対象のデータは，サイズが8の一次元int配列の大域変数に格納することとし，main()関数の冒頭で適当な値で埋めることとする．ソートした結果をprint関数を使って昇順で画面に表示せよ．ソーティング・アルゴリズムは好きなものを使って良い．
-
+//https://github.com/takanabe/introduction-to-git/blob/master/08_rebase.md
 
 
 
