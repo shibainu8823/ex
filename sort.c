@@ -9,7 +9,7 @@ int main(void){
   for(c=0;c<=list_max-1;c++){
     list[c]=rand();
   }
-  for(;;){
+  for(b=0;;){
   for(c=0;c<=list_max-1;c++){
     if(list[c]>list[c+1]){
       swap(list,c,c+1);}
